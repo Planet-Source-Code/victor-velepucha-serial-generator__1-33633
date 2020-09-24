@@ -1,0 +1,5 @@
+Serial = 0, 0, 559, 364, C
+frmRegistro = 66, 66, 457, 430, Z, 44, 44, 435, 408, C
+clsCryptAPI = 88, 88, 484, 452, C
+frmBdd = 88, 88, 569, 380, C, 110, 110, 364, 474, C
+clsHardDisk = 0, 0, 0, 0, C
